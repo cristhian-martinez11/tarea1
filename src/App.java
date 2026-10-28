@@ -13,7 +13,8 @@ public class App {
         System.out.println("====Mascota 1====");
         mascota1.mostrarInfo();
         
-
+        System.out.println("====Mascota 2====");
+        mascota2.mostrarInfo();
 
         
     }
